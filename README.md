@@ -59,14 +59,14 @@ programs to be accessed through it using Java. :computer:
 
 
 #### Further development
-- You are welcomed to develop the project by adding your program pr project to be accessed through the VM system.
-- You are welcomed to develop the project by adding further functionalities to the project itself.
+- You are welcome to develop the project by adding your program or project to be accessed through the VM system.
+- You are welcome to develop the project by adding further functionalities to the project itself.
 
 #### Attribution
 
-- The commits do not reflect the coding amount done by each contributor due to lack of professionalism in using Git at it's time. All the contributors and the collaborators in the repository coded in the project.
+- The commits/LOC do not reflect the contribution done by each member of this repo due to not using Github properly at that time. All the contributors and the collaborators in this repository worked together to deliver the final product.
 
-- As said the project is integrating other projects on its platform so each project has it's team , the following table shows the usernames of Github accounts of the contributors of each project.
+- As said the project is integrating other projects on its platform so each project has its team, the following table shows the usernames of Github accounts of the contributors of each project.
 
 | GUI and projects intergation on the platform :computer: | Operating system backend | 2D super Hero Chess Game | Mars program simulator |
 |---------------------------------------------------------|--------------------------|--------------------------|------------------------|
