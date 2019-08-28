@@ -66,7 +66,6 @@ programs to be accessed through it using Java. :computer:
 
 - The commits/LOC do not reflect the contribution done by each member of this repo due to not using Github properly at that time. All the contributors and the collaborators in this repository worked together to deliver the final product.
 
-- As said the project is integrating other projects on its platform so each project has its team, the following table shows the usernames of Github accounts of the contributors of each project.
 
 | GUI and projects intergation on the platform :computer: | Operating system backend | 2D super Hero Chess Game | Mars program simulator |
 |---------------------------------------------------------|--------------------------|--------------------------|------------------------|
