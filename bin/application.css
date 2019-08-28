@@ -1,0 +1,13 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.list-view .list-cell:even {
+-fx-background-color: BlueViolet;
+-fx-text-fill: black;
+-fx-alignment: center ;
+-fx-text-alignment: center;
+}
+.list-view .list-cell:odd {
+-fx-background-color: LightSalmon;
+-fx-text-fill: black;
+-fx-alignment: center ;
+-fx-text-alignment: center;
+}

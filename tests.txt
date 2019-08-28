@@ -1,0 +1,13 @@
+create joe
+touch a
+cd desktop/joe
+touch b
+create moe
+cd desktop/joe/moe
+touch c
+create zizo
+cd desktop/joe/moe/zizo
+touch d
+create fadi
+cd desktop/joe/moe/zizo/fadi
+touch e
