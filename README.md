@@ -1,4 +1,4 @@
-#### Discription
+#### Description 
 File and folder management system and a platform that allows other
 programs to be accessed through it using Java. :computer:
 
